@@ -1,0 +1,7 @@
+streamlit
+pycaret
+pandas
+numpy
+rdkit
+joblib
+plotly
